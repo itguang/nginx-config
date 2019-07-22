@@ -4,3 +4,6 @@
 
 nginx 静态文件目录地址: https://github.com/itguang/html
 添加你自己的网页上传,我会合并到服务器的
+
+> /etc/nginx
+
