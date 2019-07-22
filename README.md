@@ -7,3 +7,7 @@ nginx 静态文件目录地址: https://github.com/itguang/html
 
 > /etc/nginx
 
+nginx -s reload  ：修改配置后重新加载生效
+
+nginx -s stop  :快速停止nginx
+         quit  ：完整有序的停止nginx
